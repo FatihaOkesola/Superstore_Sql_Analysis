@@ -10,7 +10,7 @@ This SQL project picks up where Excel left off — using structured querying to 
 
 ## The Starting Point
 
-The Excel project established that West leads in total regional sales (~$725K), followed by East (~$679K), Central (~$501K), and South (~$392K).
+The Excel project established that West leads in total regional sales ($725K), followed by East ($679K), Central ($501K), and South ($392K).
 
 The key limitation in Excel was the inability to reliably compute order-level metrics such as average order value using distinct orders. This led to a deeper question:
 
