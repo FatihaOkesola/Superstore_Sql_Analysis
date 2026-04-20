@@ -28,6 +28,7 @@ The flat CSV was normalized into a relational database with four tables:
 - **Product** — category, sub-category, and product name
 - **Orders** — order and shipping details, linked to Customer
 - **Order_Items** — transaction-level sales, profit, quantity, and discount, linked to Orders and Product
+- ![ERD Schema](superstore_erd.png)
 
 A staging table was used to load the raw CSV before inserting clean, deduplicated data into each table.
 
